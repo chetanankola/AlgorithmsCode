@@ -1,0 +1,81 @@
+Chetan Ankola
+1895488595
+ankola@usc.edu
+Algorithms
+Homework 3:
+
+Design decisions:
+=================
+I have followed specifications and not made any deviating design decisions.
+I only have BST insertion and deletion working. 
+AVL is not working still
+
+
+
+Files included in submission: 
+============================
+main.cpp
+main.hpp
+cs570.h
+my570BST.cpp
+my570BST.hpp
+Makefile
+README
+util.cpp
+util.hpp
+BST.cpp
+BST.hpp
+AVL.cpp
+AVL.hpp
+
+
+Description:
+============
+In this homework I have implemented:
+	1>BST
+	2>AVL Tree [Incomplete]
+
+Assumptions: 
+===========
+-	
+-	If -DDEBUG0 or -DDEBUG1 is enabled in makefile then the output is verbose and is solely for my own testing. 
+	Please **DO NOT** ENABLE these flags in makefile
+
+References:
+===========
+/*
+ * Begin code I did not write.
+ * This code is partly derived from http://merlot.usc.edu/cs570-f11/homeworks/prog-faq/#cpp_process
+ * If the source code requires you to include copyright, put copyright here.
+ */
+void Process(istream& in) in sort.cpp
+/*
+ * End code I did not write.
+ */	
+
+
+
+/*
+ * Begin code I did not write.
+ * This code is partly derived from http://stackoverflow.com/questions/4989431/how-to-use-s-isreg-and-s-isdir-posix-macros
+ * If the source code requires you to include copyright, put copyright here.
+ */
+int isDir(char* str) 	in sort.cpp
+int isDirectory(char* str) in display.cpp
+/*
+ * End code I did not write.
+ */	
+
+
+
+/*
+ * Begin code I did not write.
+ * This code is derived from https://github.com/chetanankola/Utilities-C-C--
+ * Copyright (C) 2004-2006  Autodesk, Inc.
+ */
+All programs in util.cpp are from my github account ///< github.com/chetanankola
+
+/*
+ * End code I did not write.
+ */	
+ 
